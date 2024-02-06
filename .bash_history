@@ -178,25 +178,3 @@ ls
 cd project
 cd Project
 ls
-yum install git
-git status
-git commit
-ls
-git init
-git commit
-git add
-git add .
-ls
-git add .
-git status
-git log
-git commit
-git commit -m " wecome "
-git ststus
-git status
-git add .
-git status
-git log
-git remote add origin https://github.com/vatteakshitha1999/Devops.git
-git remote push -u origin master
-git push -u origin master

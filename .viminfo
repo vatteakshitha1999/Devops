@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q
-|2,0,1707206174,,"q"
 :wq!
-|2,0,1707206076,,"wq!"
+|2,0,1707201532,,"wq!"
+:q
+|2,0,1707121239,,"q"
 
 # Search String History (newest to oldest):
 
@@ -27,247 +27,116 @@
 # Registers:
 
 # File marks:
-'0  4  0  ~/file
-|4,48,4,0,1707206174,"~/file"
-'1  1  0  ~/10
-|4,49,1,0,1707206163,"~/10"
-'2  4  0  ~/file
-|4,50,4,0,1707206076,"~/file"
-'3  1  0  ~/file
-|4,51,1,0,1707205986,"~/file"
-'4  1  0  ~/file
-|4,52,1,0,1707205986,"~/file"
-'5  1  0  ~/file
-|4,53,1,0,1707205986,"~/file"
-'6  1  0  ~/file
-|4,54,1,0,1707205986,"~/file"
-'7  1  0  ~/.git/COMMIT_EDITMSG
-|4,55,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
-'8  3  0  ~/sree/file1
-|4,56,3,0,1707201532,"~/sree/file1"
-'9  3  0  ~/sree/file1
-|4,57,3,0,1707201304,"~/sree/file1"
+'0  3  0  ~/sree/file1
+|4,48,3,0,1707201532,"~/sree/file1"
+'1  3  0  ~/sree/file1
+|4,49,3,0,1707201304,"~/sree/file1"
+'2  1  34  ~/Project/greatcoder
+|4,50,1,34,1707127996,"~/Project/greatcoder"
+'3  1  0  ~/Devops/.git/COMMIT_EDITMSG
+|4,51,1,0,1707121239,"~/Devops/.git/COMMIT_EDITMSG"
+'4  3  0  ~/Devops/file1
+|4,52,3,0,1707120765,"~/Devops/file1"
 
 # Jumplist (newest first):
--'  4  0  ~/file
-|4,39,4,0,1707206174,"~/file"
--'  1  0  ~/10
-|4,39,1,0,1707206163,"~/10"
--'  1  0  ~/10
-|4,39,1,0,1707206163,"~/10"
--'  4  0  ~/file
-|4,39,4,0,1707206076,"~/file"
--'  4  0  ~/file
-|4,39,4,0,1707206076,"~/file"
--'  1  0  ~/file
-|4,39,1,0,1707205996,"~/file"
--'  1  0  ~/file
-|4,39,1,0,1707205996,"~/file"
--'  1  0  ~/file
-|4,39,1,0,1707205996,"~/file"
--'  1  0  ~/file
-|4,39,1,0,1707205986,"~/file"
--'  1  0  ~/file
-|4,39,1,0,1707205986,"~/file"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1707204179,"~/.git/COMMIT_EDITMSG"
 -'  3  0  ~/sree/file1
 |4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201532,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
--'  3  0  ~/sree/file1
-|4,39,3,0,1707201304,"~/sree/file1"
 -'  3  0  ~/sree/file1
 |4,39,3,0,1707201304,"~/sree/file1"
 -'  1  0  ~/sree/file1
 |4,39,1,0,1707201247,"~/sree/file1"
 -'  1  0  ~/sree/file1
 |4,39,1,0,1707201247,"~/sree/file1"
--'  1  0  ~/sree/file1
-|4,39,1,0,1707201247,"~/sree/file1"
--'  1  0  ~/sree/file1
-|4,39,1,0,1707201247,"~/sree/file1"
--'  1  0  ~/sree/file1
-|4,39,1,0,1707201247,"~/sree/file1"
--'  1  0  ~/sree/file1
-|4,39,1,0,1707201247,"~/sree/file1"
--'  1  0  ~/sree/file1
-|4,39,1,0,1707201247,"~/sree/file1"
--'  1  0  ~/sree/file1
-|4,39,1,0,1707201247,"~/sree/file1"
--'  1  0  ~/sree/file1
-|4,39,1,0,1707201247,"~/sree/file1"
--'  1  0  ~/sree/file1
-|4,39,1,0,1707201247,"~/sree/file1"
+-'  1  34  ~/Project/greatcoder
+|4,39,1,34,1707127996,"~/Project/greatcoder"
+-'  1  34  ~/Project/greatcoder
+|4,39,1,34,1707127996,"~/Project/greatcoder"
+-'  1  34  ~/Project/greatcoder
+|4,39,1,34,1707127996,"~/Project/greatcoder"
+-'  1  34  ~/Project/greatcoder
+|4,39,1,34,1707127996,"~/Project/greatcoder"
+-'  1  0  ~/Devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1707121239,"~/Devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1707121239,"~/Devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1707121239,"~/Devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1707121239,"~/Devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1707121239,"~/Devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1707121239,"~/Devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1707121239,"~/Devops/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Devops/.git/COMMIT_EDITMSG
+|4,39,1,0,1707121239,"~/Devops/.git/COMMIT_EDITMSG"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  3  0  ~/Devops/file1
+|4,39,3,0,1707120765,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
+-'  1  0  ~/Devops/file1
+|4,39,1,0,1707120691,"~/Devops/file1"
 
 # History of marks within files (newest to oldest):
-
-> ~/file
-	*	1707206170	0
-	"	4	0
-	^	4	0
-	.	3	14
-	+	1	0
-	+	5	0
-	+	3	14
-
-> ~/10
-	*	1707206157	0
-	"	1	0
-
-> ~/.git/COMMIT_EDITMSG
-	*	1707204136	0
-	"	1	0
 
 > ~/sree/file1
 	*	1707201526	0
